@@ -4,7 +4,7 @@
     "keywords": [
         ":package_name"
     ],
-    "homepage": "https://github.com/thephpleague/:package_name",
+    "homepage": "https://github.com/nwidart/:package_name",
     "license": "MIT",
     "authors": [
         {
